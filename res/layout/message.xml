@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent" android:orientation="vertical" android:layout_height="60dp" android:padding="8dp">
+
+<LinearLayout android:layout_width="fill_parent" android:id="@+id/LinearLayout02" android:layout_height="wrap_content">
+<TextView android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="De "></TextView><TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="677541957" android:textColor="#0090ff" android:id="@+id/rowFrom"></TextView>
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" a "></TextView><TextView android:layout_height="wrap_content" android:text="637350282" android:layout_width="wrap_content" android:gravity="center" android:textColor="#0090ff" android:id="@+id/rowTo"></TextView>
+<TextView android:layout_height="wrap_content" android:text="12/05/2010" android:layout_width="wrap_content" android:gravity="right" android:layout_weight="1" android:textSize="10dp" android:id="@+id/rowDate"></TextView>
+
+
+</LinearLayout>
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="wrap_content">
+<TextView android:layout_height="wrap_content" android:gravity="bottom" android:textSize="10dp" android:text="Eiii la cristina et troba a faltar." android:layout_width="fill_parent" android:layout_marginTop="5dp" android:id="@+id/rowContent"></TextView>
+</LinearLayout>
+
+
+
+</LinearLayout>
+

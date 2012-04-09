@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">cheatSMS</string>
+    <string name="app_name">cheatSMS</string>
+<string name="smsFrom">Remitente (texto o teléfono)</string>
+<string name="smsTo">Destinatario (teléfono)</string>
+<string name="smsContent">Contenido del mensaje</string>
+<string name="buttonEnviar">Enviar</string>
+<string name="hello">AGRR HELLO</string>
+<color name="background">#ffffff</color>
+<color name="watermark">#aaaaaa</color>
+<string name="user">Usuario</string>
+<string name="password">Contraseña</string>
+<string name="userDesc">Tu nombre de usuario en www.cheatSMS.com</string>
+<string name="passwordDesc">La contraseña de tu usuario</string>
+<string name="firstRun">Cada SMS enviado tiene un coste de 1,2€.\nRecuerda que tu eres el único responsable de los mensajes que envies.</string>
+<string name="ok">Aceptar</string>
+</resources>
